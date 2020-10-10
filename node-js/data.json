@@ -1,0 +1,12 @@
+[
+  {
+    "DoctorId": "12345",
+    "DoctorName": "Doctor 1",
+    "IsAvailable": true
+  },
+  {
+    "DoctorId": "67891",
+    "DoctorName": "Doctor 2",
+    "IsAvailable": false
+  }
+]
